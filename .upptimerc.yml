@@ -16,8 +16,8 @@ status-website:
   faviconSvg: https://emailconnect.eu/assets/images/favicon-DiWvSVNU.svg
   logoUrl: https://raw.githubusercontent.com/xadi-hq/emailconnect-status/master/assets/logo-light.png
   name: EmailConnect
-  introTitle: "**EmailConnect** turns emails into webhooks, 100% EU operated."
-  introMessage: This is a status page showing **real-time** up-time data from our infrastructure. [**Get started free**](https://emailconnect.eu/?ref=statuspage)
+  introTitle: "Turn emails into webhooks, 100% EU operated."
+  introMessage: This is a status page showing **real-time** up-time data from our infrastructure. [**Start free**](https://emailconnect.eu/?ref=statuspage).
   metaTags:
     - name: "robots"
       content: "noindex"
