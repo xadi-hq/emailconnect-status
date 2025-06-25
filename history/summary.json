@@ -18,21 +18,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "IPv6 test",
-    "url": "forwardemail.net",
+    "name": "mx1.emailconnect.eu",
+    "url": "mx1.emailconnect.eu",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "i-pv6-test",
-    "status": "down",
+    "slug": "mx1-emailconnect-eu",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 114,
+    "timeDay": 114,
+    "timeWeek": 114,
+    "timeMonth": 114,
+    "timeYear": 114,
     "dailyMinutesDown": {}
   }
 ]
