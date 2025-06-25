@@ -3,8 +3,10 @@ owner: xadi-hq
 repo: emailconnect-status
 
 sites:
-  - name: emailconnect.eu
-    url: https://emailconnect.eu
+  - name: Web application & API
+    url: https://emailconnect.eu/health
+  - name: Postfix e-mail server
+    url: https://emailconnect.eu/health/postfix
   - name: mx1.emailconnect.eu
     url: mx1.emailconnect.eu
     port: 25
