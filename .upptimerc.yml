@@ -5,11 +5,10 @@ repo: emailconnect-status
 sites:
   - name: emailconnect.eu
     url: https://emailconnect.eu
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: mx1.emailconnect.eu
+    url: mx1.emailconnect.eu
+    port: 25
     check: "tcp-ping"
-    ipv6: true
 
 status-website:
   cname: status.emailconnect.eu
