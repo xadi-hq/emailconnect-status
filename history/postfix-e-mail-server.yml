@@ -1,7 +1,7 @@
 url: https://emailconnect.eu/health/postfix
-status: up
-code: 200
-responseTime: 154
-lastUpdated: 2025-07-17T23:21:30.968Z
+status: down
+code: 502
+responseTime: 165
+lastUpdated: 2025-07-18T20:18:25.350Z
 startTime: 2025-06-25T08:25:56.885Z
 generator: Upptime <https://github.com/upptime/upptime>
