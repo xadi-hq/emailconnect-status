@@ -1,7 +1,7 @@
 url: https://emailconnect.eu/health
-status: down
-code: 502
-responseTime: 942
-lastUpdated: 2025-07-23T09:46:58.299Z
+status: up
+code: 200
+responseTime: 1474
+lastUpdated: 2025-07-23T09:57:45.740Z
 startTime: 2025-06-25T08:25:56.064Z
 generator: Upptime <https://github.com/upptime/upptime>
