@@ -1,7 +1,7 @@
-url: https://emailconnect.eu/health
-status: down
-code: 404
-responseTime: 973
-lastUpdated: 2025-09-11T12:35:22.850Z
+url: https://app.emailconnect.eu/health
+status: up
+code: 200
+responseTime: 1020
+lastUpdated: 2025-09-11T15:45:20.690Z
 startTime: 2025-06-25T08:25:56.064Z
 generator: Upptime <https://github.com/upptime/upptime>
