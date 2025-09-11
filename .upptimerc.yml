@@ -3,9 +3,9 @@ repo: emailconnect-status
 
 sites:
   - name: Web application & API
-    url: https://emailconnect.eu/health
+    url: https://app.emailconnect.eu/health
   - name: Incoming email processor
-    url: https://emailconnect.eu/health/mail
+    url: https://app.emailconnect.eu/health/mail
     expectedStatusCodes:
       - 200
   - name: mx1.emailconnect.eu
@@ -15,8 +15,8 @@ sites:
 
 status-website:
   cname: status.emailconnect.eu
-  favicon: https://emailconnect.eu/assets/favicon-DmDkn9pI.ico
-  faviconSvg: https://emailconnect.eu/assets/images/favicon-DiWvSVNU.svg
+  favicon: https://app.emailconnect.eu/assets/favicon-DmDkn9pI.ico
+  faviconSvg: https://app.emailconnect.eu/assets/images/favicon-DiWvSVNU.svg
   logoUrl: https://raw.githubusercontent.com/xadi-hq/emailconnect-status/master/assets/logo-light.png
   name: EmailConnect
   introTitle: "Turn emails into webhooks, 100% EU operated."
