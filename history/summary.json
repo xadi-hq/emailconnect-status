@@ -60,19 +60,19 @@
     "url": "mx1.emailconnect.eu",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mx1-emailconnect-eu",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
     "time": 121,
-    "timeDay": 158,
-    "timeWeek": 121,
+    "timeDay": 129,
+    "timeWeek": 118,
     "timeMonth": 120,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-10-08": 0,
+      "2025-10-08": 28,
       "2025-06-26": 39
     }
   }
