@@ -1,7 +1,7 @@
 url: https://app.emailconnect.eu/health/mail
-status: up
-code: 200
-responseTime: 130
-lastUpdated: 2025-11-19T23:19:13.993Z
+status: down
+code: 502
+responseTime: 160
+lastUpdated: 2025-11-20T09:00:16.099Z
 startTime: 2025-07-21T19:13:29.891Z
 generator: Upptime <https://github.com/upptime/upptime>
